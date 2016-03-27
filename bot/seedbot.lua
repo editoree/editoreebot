@@ -220,7 +220,7 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    "download_media",
+    "sudo_users={TsM_editore_TeRroRiSm_TsM},–Sudo users",
     "invite",
     "all",
     "leave_ban",
